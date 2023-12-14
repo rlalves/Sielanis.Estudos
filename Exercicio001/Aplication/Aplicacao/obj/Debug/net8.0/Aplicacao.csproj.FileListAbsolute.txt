@@ -1,0 +1,17 @@
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/obj/Debug/net8.0/Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/obj/Debug/net8.0/Aplicacao.AssemblyInfoInputs.cache
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/obj/Debug/net8.0/Aplicacao.AssemblyInfo.cs
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/obj/Debug/net8.0/Aplicacao.csproj.CoreCompileInputs.cache
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/obj/Debug/net8.0/Aplicacao.csproj.AssemblyReference.cache
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/bin/Debug/net8.0/Aplicacao.deps.json
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/bin/Debug/net8.0/Aplicacao.dll
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/bin/Debug/net8.0/Aplicacao.pdb
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/bin/Debug/net8.0/Modelo.dll
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/bin/Debug/net8.0/Repositorio.dll
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/bin/Debug/net8.0/Modelo.pdb
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/bin/Debug/net8.0/Repositorio.pdb
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/obj/Debug/net8.0/Aplicacao.csproj.CopyComplete
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/obj/Debug/net8.0/Aplicacao.dll
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/obj/Debug/net8.0/refint/Aplicacao.dll
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/obj/Debug/net8.0/Aplicacao.pdb
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/obj/Debug/net8.0/ref/Aplicacao.dll

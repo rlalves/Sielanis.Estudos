@@ -1,0 +1,11 @@
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/bin/Debug/net8.0/Modelo.deps.json
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/bin/Debug/net8.0/Modelo.dll
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/bin/Debug/net8.0/Modelo.pdb
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/obj/Debug/net8.0/Modelo.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/obj/Debug/net8.0/Modelo.AssemblyInfoInputs.cache
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/obj/Debug/net8.0/Modelo.AssemblyInfo.cs
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/obj/Debug/net8.0/Modelo.csproj.CoreCompileInputs.cache
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/obj/Debug/net8.0/Modelo.dll
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/obj/Debug/net8.0/refint/Modelo.dll
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/obj/Debug/net8.0/Modelo.pdb
+/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/obj/Debug/net8.0/ref/Modelo.dll

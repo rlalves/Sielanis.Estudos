@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/Aplicacao.csproj": {}
+  },
+  "projects": {
+    "/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/Aplicacao.csproj",
+        "projectName": "Aplicacao",
+        "projectPath": "/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/Aplicacao.csproj",
+        "packagesPath": "/home/rodrigo/.nuget/packages/",
+        "outputPath": "/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rodrigo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/Modelo.csproj": {
+                "projectPath": "/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/Modelo.csproj"
+              },
+              "/home/rodrigo/Projetos/Hexagonal002/Driver/Repositorio/Repositorio.csproj": {
+                "projectPath": "/home/rodrigo/Projetos/Hexagonal002/Driver/Repositorio/Repositorio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/Modelo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/Modelo.csproj",
+        "projectName": "Modelo",
+        "projectPath": "/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/Modelo.csproj",
+        "packagesPath": "/home/rodrigo/.nuget/packages/",
+        "outputPath": "/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rodrigo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/rodrigo/Projetos/Hexagonal002/Driver/Repositorio/Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rodrigo/Projetos/Hexagonal002/Driver/Repositorio/Repositorio.csproj",
+        "projectName": "Repositorio",
+        "projectPath": "/home/rodrigo/Projetos/Hexagonal002/Driver/Repositorio/Repositorio.csproj",
+        "packagesPath": "/home/rodrigo/.nuget/packages/",
+        "outputPath": "/home/rodrigo/Projetos/Hexagonal002/Driver/Repositorio/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rodrigo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/Modelo.csproj": {
+                "projectPath": "/home/rodrigo/Projetos/Hexagonal002/Aplication/Modelo/Modelo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

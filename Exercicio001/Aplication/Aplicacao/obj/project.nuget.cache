@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ulcsBzQOOqyya7zDaGGfRx8iCczZ945io2ipB6ojjGzzRV3Rw0SZiZtLm4cNkR1vfZg+Dq+ImkW2KYMlBBcEg==",
+  "success": true,
+  "projectFilePath": "/home/rodrigo/Projetos/Hexagonal002/Aplication/Aplicacao/Aplicacao.csproj",
+  "expectedPackageFiles": [
+    "/home/rodrigo/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.1/microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "/home/rodrigo/.nuget/packages/mysqlconnector/2.3.1/mysqlconnector.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
